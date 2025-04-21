@@ -45,7 +45,7 @@ Email: msafvan012@gmail.com
 <p align = "center">
     <img align = "center" src = "https://streak-stats.demolab.com/?user=whoami-012&theme=transparent" /> <br/> <br/>
     <img align = "center" height = "180"  src = "https://github-readme-stats.vercel.app/api?username=whoami-012&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" /> 
-    <img align = "center" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoami-012&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+    <img align = "center" height= "180" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoami-012&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </p>
   
 "Break things ethically, learn endlessly, defend passionately."
