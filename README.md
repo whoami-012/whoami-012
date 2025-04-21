@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Muhammed Safvan
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/m-safvan/) [![Website Badge]
 🛡️ Penetration Tester | Cybersecurity Analyst
 Hi, I'm Safvan — a curious and committed cybersecurity enthusiast, passionate about ethical hacking, threat intelligence, and digital forensics. I'm on a mission to secure the web one vulnerability at a time.
 
