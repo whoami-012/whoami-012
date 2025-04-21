@@ -40,6 +40,11 @@ Operating Systems:Linux, Windows, macOS
 📢 Let's Connect!GitHub: whoami-012
 LinkedIn: m-safvan
 Email: msafvan012@gmail.com
+
+## ⏳ Stats
+<p align = "center">
+    <img align = "center" src = "https://streak-stats.demolab.com/?user=whoami-012&theme=transparent" /> <br/> <br/>
+  
 "Break things ethically, learn endlessly, defend passionately."
 Thanks for visiting! ✨
 
